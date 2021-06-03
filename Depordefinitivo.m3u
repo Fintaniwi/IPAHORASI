@@ -39,3 +39,15 @@ http://daletvplay.xyz:8080/live/PabloVasquez/qhYgVR/83620.m3u8
 http://daletvplay.xyz:8080/live/PabloVasquez/qhYgVR/83622.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="| Fox Sports SD Sur | DEP " tvg-logo="https://img2.freepng.es/20180529/yfs/kisspng-fox-sports-networks-fox-sports-1-broadcasting-sports-logo-5b0d5bfc290534.387315791527602172168.jpg" group-title="Deportes Latino",| Fox Sports SD Sur | DEP 
 http://daletvplay.xyz:8080/live/PabloVasquez/qhYgVR/83629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TNT SPORTS  FHD 1080 ( UNICO 1 ) |" tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63971_64098_5050.png" group-title="Futbol Nacional Chileno",| TNT SPORTS  FHD 1080 ( UNICO 1 ) |
+http://daletvplay.xyz:8080/live/PabloVasquez/qhYgVR/83245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TNT SPORTS FHD 1080 ( UNICO 2 ) | " tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63971_64098_5050.png" group-title="Futbol Nacional Chileno",| TNT SPORTS FHD 1080 ( UNICO 2 ) | 
+http://daletvplay.xyz:8080/live/PabloVasquez/qhYgVR/59364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="| TNT SPORTS FHD 1080  ( UNICO 3) | " tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63971_64098_5050.png" group-title="Futbol Nacional Chileno",| TNT SPORTS FHD 1080  ( UNICO 3) | 
+http://daletvplay.xyz:8080/live/PabloVasquez/qhYgVR/43700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS HD (1080p) (DP)" tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63971_64098_5050.png" group-title="Futbol Nacional Chileno",TNT SPORTS HD (1080p) (DP)
+http://daletvplay.xyz:8080/live/PabloVasquez/qhYgVR/43403.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS HD (720p) (DP)" tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63971_64098_5050.png" group-title="Futbol Nacional Chileno",TNT SPORTS HD (720p) (DP)
+http://daletvplay.xyz:8080/live/PabloVasquez/qhYgVR/43698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS  HD  e (DP) 60 fps" tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63971_64098_5050.png" group-title="Futbol Nacional Chileno",TNT SPORTS  HD  e (DP) 60 fps
+http://daletvplay.xyz:8080/live/PabloVasquez/qhYgVR/43401.m3u8
